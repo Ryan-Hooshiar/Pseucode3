@@ -10,7 +10,7 @@ while Validity == False:
     if Letter == x and Letter_Length > 0 and Letter_Length < 2:
       Validity = True
       
- This is my code, check it out on repl.it, it works.  If you'd like me to submit it, tell me on instagram (type in Patrick, I'm 'starfish_is_bored').  
+ This is my code, check it out on repl.it, it works.  If you'd like me to submit it, tell me on instagram (type in Patrick, you'll see 'starfish_is_bored').  
  If you have your own code, post it below mines and we'll discuss it in a group chat. 
  
  - Patrick Wu
