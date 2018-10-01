@@ -11,7 +11,7 @@
 
 - A number of blanks will be printed out according to the number of letters gathered in word_length (this too will be assigned to a variable)
 
-- The character of variable player_2 will be considered, if it matches any character in the word player_1 inputed (which can be done via a loop and an if statement) it will replace that blank and substract one to another variable with the length of word player_1 inputed.  If it does not match a word, it will reduce 1 from the body part counter.
+- The character of variable player_2 will be considered, if it matches any character in the word player_1 inputed (which can be done via a loop and an if statement) it will replace that blank and substract one to another variable with the length of the word player_1 inputed.  If it does not match a word, it will reduce 1 from the body part counter.
 
 - If the body counter reaches 0, the player_1 will win the game.
 
