@@ -17,6 +17,6 @@
 
 - If the body counter is not 0 and all the blanks are filled [which will be considered via the variable keeping track of the amount of words left (if it reaches 0)] player_2 wins
 
-- Loop the code again an again (but not the input of the first player) and have it update with the data from the last loop until either player wins.
+- Loop the code again an again (but not the input of the first player) and have it update with the data from the last loop until either player wins. (which can be achieved by seperating certain parts into functions)
 
 ```
