@@ -9,6 +9,9 @@ def get_guess():
         validity = True
     else:
       print('Character is invalid. ',end='')
+    
+    if validity == True:
+      return letter
      
  
  ```
