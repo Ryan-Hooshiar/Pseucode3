@@ -10,10 +10,6 @@
       
       if validity == True:
         return letter
-      
- This is my code, check it out on repl.it, it works.  If you'd like me to submit it, tell me on instagram (type in Patrick, you'll see 'starfish_is_bored').  
- If you have your own code, please post it below mine and we'll discuss it in a group chat. (This INCLUDES THE 'def get_guess():')
- 
- - Patrick Wu
+     
  
  ```
