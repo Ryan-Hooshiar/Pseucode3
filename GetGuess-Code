@@ -1,15 +1,14 @@
 # Hangman Code
 
 ```
+def get_guess():
   validity = False
   while validity == False:
-    letter = input('Enter a letter')
-    for x in "qwertyuiopasdfghjklzxcvbnm":
-      if letter == x and len(letter) > 0 and len(letter) < 2:
+    letter = input('Enter a letter:')
+    if letter in "qwertyuiopasdfghjklzxcvbnm" and len(letter) == 1:
         validity = True
-      
-      if validity == True:
-        return letter
+    else:
+      print('Character is invalid. ',end='')
      
  
  ```
